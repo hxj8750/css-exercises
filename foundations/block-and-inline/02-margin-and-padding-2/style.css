@@ -34,7 +34,7 @@ body {
 .button-container {
   width:385px;
   margin:0 auto;
-  padding:10px 132.89px;
+  padding:10px;
   text-align:center;
   background: #e3f4ff;
 }
@@ -42,6 +42,7 @@ body {
 button {
   display:block;
   padding:8px 18px;
+  margin:auto;
   background: white;
   border: 1px solid #eee;
 }
